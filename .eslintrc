@@ -1,0 +1,7 @@
+{
+  "extends": "eslint-config-hogan",
+  "rules": {
+    "no-console": "off",
+    "no-process-exit": "off"
+  }
+}

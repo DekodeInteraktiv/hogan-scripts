@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "changelog": "lerna-changelog",
+    "lint": "node_modules/.bin/eslint '**/*.js'"
+  },
+  "devDependencies": {
+    "babel-eslint": "8.0.3",
+    "eslint": "4.13.1",
+    "eslint-config-hogan": "0.0.1",
+    "eslint-config-wpcalypso": "1.2.0",
+    "eslint-plugin-flowtype": "2.40.1",
+    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-wpcalypso": "4.0.1",
+    "lerna": "2.5.1",
+    "lerna-changelog": "0.7.0"
+  }
+}

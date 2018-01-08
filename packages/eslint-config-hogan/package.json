@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-hogan",
+  "version": "0.0.1",
+  "description": "ESLint configuration used by Hogan",
+  "repository": "DekodeInteraktiv/hogan-scripts",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DekodeInteraktiv/hogan-scripts/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "babel-eslint": "^8.0.3",
+    "eslint": "^4.13.0",
+    "eslint-config-wpcalypso": "^1.2.0",
+    "eslint-plugin-flowtype": "^2.39.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-wpcalypso": "^4.0.1"
+  }
+}

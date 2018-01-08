@@ -1,0 +1,17 @@
+{
+  "name": "stylelint-config-hogan",
+  "version": "0.0.1",
+  "description": "Stylelint configuration used by Hogan",
+  "repository": "DekodeInteraktiv/hogan-scripts",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DekodeInteraktiv/hogan-scripts/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "stylelint": "^8.3.1",
+    "stylelint-order": "^0.8.0"
+  }
+}

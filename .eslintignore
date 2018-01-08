@@ -1,0 +1,4 @@
+node_modules/*
+packages/eslint-config-hogan/node_modules/*
+packages/hogan-scripts/node_modules/*
+packages/stylelint-config-hogan/node_modules/*

@@ -33,6 +33,7 @@
     "eslint-plugin-flowtype": "^2.41.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-wpcalypso": "^4.0.1",
+    "lodash": "^4.17.4",
     "postcss": "^6.0.16",
     "postcss-flexbugs-fixes": "^3.2.0",
     "postcss-sass": "^0.2.0",

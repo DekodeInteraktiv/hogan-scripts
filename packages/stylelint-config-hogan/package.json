@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-hogan",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Stylelint configuration used by Hogan",
   "repository": "DekodeInteraktiv/hogan-scripts",
   "license": "GPL-3.0",

@@ -1,3 +1,20 @@
+## v0.0.3 (2018-01-08)
+
+#### :rocket: New Feature
+* `hogan-scripts`
+  * [#4](https://github.com/DekodeInteraktiv/hogan-scripts/pull/4) Make it posible to set object in hogan css config. ([@walbo](https://github.com/walbo))
+
+#### :nail_care: Enhancement
+* `hogan-scripts`
+  * [#4](https://github.com/DekodeInteraktiv/hogan-scripts/pull/4) Make it posible to set object in hogan css config. ([@walbo](https://github.com/walbo))
+
+#### :house: Internal
+* `hogan-scripts`
+  * [#4](https://github.com/DekodeInteraktiv/hogan-scripts/pull/4) Make it posible to set object in hogan css config. ([@walbo](https://github.com/walbo))
+
+#### Committers: 1
+- Petter Walbø Johnsgård ([walbo](https://github.com/walbo))
+
 ## v0.0.2 (2018-01-08)
 
 #### :house: Internal

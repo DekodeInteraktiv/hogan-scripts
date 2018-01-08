@@ -2,3 +2,4 @@ node_modules/
 yarn-error.log
 /packages/hogan-stylelint-config/yarn.lock
 /lerna-debug.log
+/.changelog

@@ -1,0 +1,20 @@
+notifications:
+  email: false
+
+language: node_js
+
+node_js:
+  - 8
+
+cache:
+  directories:
+  - node_modules
+
+install: true
+
+script:
+ - 'if [ $TEST_SUITE = "lint" ]; then yarn install && yarn lint; fi'
+
+env:
+  matrix:
+    - TEST_SUITE=lint

@@ -764,8 +764,8 @@ escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
 
 eslint-config-hogan@0.0.1:
-  version "0.0.1-0.0.1-20.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-hogan/-/eslint-config-hogan-0.0.1-0.0.1-20.0.tgz#f973b55e51d801105bc1b8f4efad9d7c0bbf1f48"
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-hogan/-/eslint-config-hogan-0.0.1.tgz#c35179c39c5a9b94dedba1f0f7f728d7f05857a8"
 
 eslint-config-wpcalypso@1.2.0:
   version "1.2.0"

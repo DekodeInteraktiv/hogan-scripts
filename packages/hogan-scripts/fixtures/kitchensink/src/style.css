@@ -1,0 +1,8 @@
+.hogan {
+	color: #ccc;
+	display: flex;
+
+	&:hover {
+		color: #000;
+	}
+}

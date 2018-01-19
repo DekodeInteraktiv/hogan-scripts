@@ -2,9 +2,9 @@
  * External dependencies
  */
 const _ = require( 'lodash' );
-const autoprefixer = require( 'autoprefixer' );
 const chalk = require( 'chalk' );
 const cssnano = require( 'cssnano' );
+const cssnext = require( 'postcss-cssnext' );
 const fs = require( 'fs' );
 const path = require( 'path' );
 const postcss = require( 'postcss' );
@@ -43,7 +43,15 @@ function build( from, to ) {
 	fs.readFile( from, ( err, css ) => {
 		postcss( [
 			postcssFlexbugsFixes,
-			autoprefixer( { browsers, flexbox: 'no-2009' } ),
+			cssnext( {
+				features: {
+					autoprefixer: {
+						browsers,
+						flexbox: 'no-2009',
+					},
+				},
+				warnForDuplicates: false,
+			} ),
 			cssnano,
 		] )
 			.process( css, config )

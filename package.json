@@ -1,8 +1,12 @@
 {
   "private": true,
   "scripts": {
+    "build": "node packages/hogan-scripts/bin/hogan-scripts.js build",
     "changelog": "lerna-changelog",
     "lint": "node_modules/.bin/eslint '**/*.js'"
+  },
+  "hogan": {
+    "css": "./packages/hogan-scripts/fixtures/kitchensink/src/style.css"
   },
   "devDependencies": {
     "babel-eslint": "8.1.2",

@@ -1,3 +1,17 @@
+## v0.0.4 (2018-01-19)
+
+#### :rocket: New Feature
+* `hogan-scripts`
+  * [#5](https://github.com/DekodeInteraktiv/hogan-scripts/pull/5) Add CSSNext support. ([@walbo](https://github.com/walbo))
+
+#### :house: Internal
+* `hogan-scripts`
+  * [#7](https://github.com/DekodeInteraktiv/hogan-scripts/pull/7) Update hogan-scripts dependecies. ([@walbo](https://github.com/walbo))
+  * [#6](https://github.com/DekodeInteraktiv/hogan-scripts/pull/6) Add kitchensink. ([@walbo](https://github.com/walbo))
+
+#### Committers: 1
+- Petter Walbø Johnsgård ([walbo](https://github.com/walbo))
+
 ## v0.0.3 (2018-01-08)
 
 #### :rocket: New Feature

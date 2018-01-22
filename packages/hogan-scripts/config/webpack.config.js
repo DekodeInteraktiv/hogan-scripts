@@ -1,6 +1,7 @@
 /**
  * External dependencies
  */
+const _ = require( 'lodash' );
 const webpack = require( 'webpack' );
 
 /**
@@ -42,6 +43,14 @@ if ( ! shouldUseSourceMap ) {
 	);
 }
 
+const output = {
+	path: paths.buildFolder,
+};
+
+if ( ! _.isObjectLike( pluginPackage.hogan.js ) ) {
+	output.filename = `${ name }.js`;
+}
+
 /**
  * Config
  */
@@ -49,10 +58,7 @@ module.exports = {
 	bail: true,
 	devtool: shouldUseSourceMap ? 'source-map' : false,
 	entry: pluginPackage.hogan.js,
-	output: {
-		path: paths.buildFolder,
-		filename: `${ name }.js`,
-	},
+	output,
 	module: {
 		strictExportPresence: true,
 		rules: [ {

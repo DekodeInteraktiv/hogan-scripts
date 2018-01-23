@@ -1,3 +1,12 @@
+## v0.0.5 (2018-01-23)
+
+#### :nail_care: Enhancement
+* `hogan-scripts`
+  * [#8](https://github.com/DekodeInteraktiv/hogan-scripts/pull/8) Support object input in js config. ([@walbo](https://github.com/walbo))
+
+#### Committers: 1
+- Petter Walbø Johnsgård ([walbo](https://github.com/walbo))
+
 ## v0.0.4 (2018-01-19)
 
 #### :rocket: New Feature

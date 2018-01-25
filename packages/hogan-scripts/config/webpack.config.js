@@ -71,6 +71,7 @@ module.exports = {
 						[ '@babel/preset-env', { targets: { browsers } } ],
 						'@babel/preset-flow',
 					],
+					plugins: [ '@babel/plugin-proposal-object-rest-spread' ],
 					compact: true,
 				},
 			} ],

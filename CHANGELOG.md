@@ -1,3 +1,12 @@
+## v0.0.6 (2018-01-25)
+
+#### :nail_care: Enhancement
+* `hogan-scripts`
+  * [#9](https://github.com/DekodeInteraktiv/hogan-scripts/pull/9) Let Babel transform object rest spreads. ([@walbo](https://github.com/walbo))
+
+#### Committers: 1
+- Petter Walbø Johnsgård ([walbo](https://github.com/walbo))
+
 ## v0.0.5 (2018-01-23)
 
 #### :nail_care: Enhancement

@@ -1,3 +1,18 @@
+## v0.0.7 (2018-02-04)
+
+#### :rocket: New Feature
+* `hogan-scripts`
+  * [#10](https://github.com/DekodeInteraktiv/hogan-scripts/pull/10) Add postcss-mixins. ([@walbo](https://github.com/walbo))
+
+#### :house: Internal
+* `eslint-config-hogan`, `hogan-scripts`, `stylelint-config-hogan`
+  * [#11](https://github.com/DekodeInteraktiv/hogan-scripts/pull/11) Update dependencies. ([@walbo](https://github.com/walbo))
+
+#### Committers: 1
+- Petter Walbø Johnsgård ([walbo](https://github.com/walbo))
+
+
+
 ## v0.0.6 (2018-01-25)
 
 #### :nail_care: Enhancement
@@ -7,6 +22,8 @@
 #### Committers: 1
 - Petter Walbø Johnsgård ([walbo](https://github.com/walbo))
 
+
+
 ## v0.0.5 (2018-01-23)
 
 #### :nail_care: Enhancement
@@ -15,6 +32,8 @@
 
 #### Committers: 1
 - Petter Walbø Johnsgård ([walbo](https://github.com/walbo))
+
+
 
 ## v0.0.4 (2018-01-19)
 
@@ -29,6 +48,8 @@
 
 #### Committers: 1
 - Petter Walbø Johnsgård ([walbo](https://github.com/walbo))
+
+
 
 ## v0.0.3 (2018-01-08)
 
@@ -46,6 +67,8 @@
 
 #### Committers: 1
 - Petter Walbø Johnsgård ([walbo](https://github.com/walbo))
+
+
 
 ## v0.0.2 (2018-01-08)
 

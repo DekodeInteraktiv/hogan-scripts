@@ -1,6 +1,6 @@
 {
   "name": "hogan-scripts",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "repository": "DekodeInteraktiv/hogan-scripts",
   "license": "GPL-3.0",
   "engines": {
@@ -39,7 +39,7 @@
     "postcss-flexbugs-fixes": "^3.3.0",
     "postcss-mixins": "^6.2.0",
     "stylelint": "^8.4.0",
-    "stylelint-config-hogan": "^0.0.7",
+    "stylelint-config-hogan": "^0.0.8",
     "stylelint-formatter-pretty": "^1.0.3",
     "stylelint-order": "^0.8.0",
     "webpack": "^3.10.0"

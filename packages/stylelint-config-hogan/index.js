@@ -20,7 +20,13 @@ module.exports = {
 		'selector-pseudo-element-no-unknown': true,
 		'selector-type-no-unknown': true,
 		'media-feature-name-no-unknown': true,
-		'at-rule-no-unknown': true,
+		'at-rule-no-unknown': [ true, {
+			ignoreAtRules: [
+				'define-mixin',
+				'mixin',
+				'mixin-content',
+			],
+		} ],
 		'comment-no-empty': true,
 		'no-duplicate-selectors': true,
 		'no-empty-source': true,

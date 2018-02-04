@@ -1,3 +1,14 @@
+## v0.0.8 (2018-02-04)
+
+#### :bug: Bug Fix
+* `stylelint-config-hogan`
+  * [#12](https://github.com/DekodeInteraktiv/hogan-scripts/pull/12) Allow postcss-mixin @-rules in stylelint config. ([@walbo](https://github.com/walbo))
+
+#### Committers: 1
+- Petter Walbø Johnsgård ([walbo](https://github.com/walbo))
+
+
+
 ## v0.0.7 (2018-02-04)
 
 #### :rocket: New Feature

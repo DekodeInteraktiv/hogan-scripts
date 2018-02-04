@@ -11,10 +11,10 @@
     "index.js"
   ],
   "peerDependencies": {
-    "babel-eslint": "^8.0.3",
-    "eslint": "^4.13.0",
-    "eslint-config-wpcalypso": "^1.2.0",
-    "eslint-plugin-flowtype": "^2.39.1",
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.17.0",
+    "eslint-config-wpcalypso": "^2.0.0",
+    "eslint-plugin-flowtype": "^2.42.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-wpcalypso": "^4.0.1"
   }

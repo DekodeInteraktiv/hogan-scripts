@@ -1,4 +1,9 @@
+@define-mixin site-padding $padding: 20px {
+	padding: 0 $padding;
+}
+
 .hogan {
+	@mixin site-padding 30px;
 	color: #ccc;
 	display: flex;
 

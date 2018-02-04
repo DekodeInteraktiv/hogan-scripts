@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-hogan",
-  "version": "0.0.1",
+  "version": "0.0.7",
   "description": "ESLint configuration used by Hogan",
   "repository": "DekodeInteraktiv/hogan-scripts",
   "license": "GPL-3.0",

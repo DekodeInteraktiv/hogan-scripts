@@ -1,6 +1,6 @@
 {
   "name": "hogan-scripts",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "repository": "DekodeInteraktiv/hogan-scripts",
   "license": "GPL-3.0",
   "engines": {
@@ -28,7 +28,7 @@
     "cross-spawn": "^6.0.4",
     "cssnano": "^3.10.0",
     "eslint": "^4.17.0",
-    "eslint-config-hogan": "^0.0.1",
+    "eslint-config-hogan": "^0.0.7",
     "eslint-config-wpcalypso": "^2.0.0",
     "eslint-plugin-flowtype": "^2.42.0",
     "eslint-plugin-import": "^2.8.0",
@@ -39,7 +39,7 @@
     "postcss-flexbugs-fixes": "^3.3.0",
     "postcss-mixins": "^6.2.0",
     "stylelint": "^8.4.0",
-    "stylelint-config-hogan": "^0.0.3",
+    "stylelint-config-hogan": "^0.0.7",
     "stylelint-formatter-pretty": "^1.0.3",
     "stylelint-order": "^0.8.0",
     "webpack": "^3.10.0"

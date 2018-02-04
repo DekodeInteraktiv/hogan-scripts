@@ -37,6 +37,7 @@
     "postcss": "^6.0.16",
     "postcss-cssnext": "^3.0.2",
     "postcss-flexbugs-fixes": "^3.3.0",
+    "postcss-mixins": "^6.2.0",
     "stylelint": "^8.4.0",
     "stylelint-config-hogan": "^0.0.3",
     "stylelint-formatter-pretty": "^1.0.3",

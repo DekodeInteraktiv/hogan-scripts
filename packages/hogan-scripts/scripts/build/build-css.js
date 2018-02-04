@@ -9,6 +9,7 @@ const fs = require( 'fs' );
 const path = require( 'path' );
 const postcss = require( 'postcss' );
 const postcssFlexbugsFixes = require( 'postcss-flexbugs-fixes' );
+const postcssMixins = require( 'postcss-mixins' );
 
 /**
  * Internal dependencies
@@ -42,6 +43,7 @@ function build( from, to ) {
 
 	fs.readFile( from, ( err, css ) => {
 		postcss( [
+			postcssMixins,
 			postcssFlexbugsFixes,
 			cssnext( {
 				features: {

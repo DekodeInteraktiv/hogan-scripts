@@ -1,6 +1,8 @@
 module.exports = [
-	'>1%',
-	'last 4 versions',
-	'Firefox ESR',
-	'not ie < 10',
+	"> 1%",
+	"Edge >= 12",
+	"Explorer >= 10",
+	"iOS >= 8",
+	"Android >= 4.4",
+	"last 2 versions"
 ];
